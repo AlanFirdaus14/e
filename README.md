@@ -1,2 +1,2 @@
 # Kontol
-## [Test](AFW Vid.mp4)
+## [Test](index.html)
